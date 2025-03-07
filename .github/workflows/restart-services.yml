@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: garygrossgarten/github-action-ssh@915e492551885a89131e21d85f2e043c96abff80
+      - uses: garygrossgarten/github-action-ssh@f52509ed36e078468e75f2a0b494be17ee5cecae
         with:
           command: >-
             become mdanielsbot bash -c '
