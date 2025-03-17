@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: appleboy/ssh-action@551964ebda1034f0b5449d74db25c42e371ca1f7
+      - uses: appleboy/ssh-action@52a1840ca6cafe7e0e1e15e8649b935ba4e33077
         with:
           script: >-
             become mdanielsbot bash -c '
