@@ -5,7 +5,7 @@
       "esnext"
     ],
     "module": "CommonJS",
-    "types": ["node", "mocha"],
+    "types": ["node"],
     "sourceMap": true,
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true
