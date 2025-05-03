@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "start": "env WEB=true /data/project/sdzerobot/bin/node /data/project/sdzerobot/SDZeroBot/webservice/server.js"
+    "start": "env WEB=true node /data/project/mdanielsbot/MD-SDZeroBot/webservice/server.js"
   }
 }
