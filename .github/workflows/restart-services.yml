@@ -14,7 +14,7 @@ jobs:
           mkdir -p ~/.ssh/
           echo "$SSH_KEY" > ~/.ssh/toolforge.key
           chmod 600 ~/.ssh/toolforge.key
-          cat >>~/.ssh/config <<END
+          cat >> ~/.ssh/config <<END
           Host toolforge
             HostName $SSH_HOST
             User $SSH_USER
