@@ -31,6 +31,7 @@ redis.test.js
 terminate-shell-pods.js
 TextExtractor.js
 utils.js
+category-cycles/get-edges.js
 db-tabulator/app.js
 db-tabulator/eventstream-metadata-maintainer.js
 db-tabulator/eventstream-trigger.js
