@@ -52,9 +52,9 @@
     "sqlite3": "^5.0.0"
   },
   "devDependencies": {
-    "@types/chai": "^4.3.16",
+    "@types/chai": "^5.2.2",
     "@types/sinon": "^17.0.3",
-    "chai": "^4.4.1",
+    "chai": "^5.2.0",
     "eslint": "^7.10.0",
     "nodemon": "^3.1.10",
     "sinon": "^18.0.0",
